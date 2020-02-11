@@ -1,5 +1,15 @@
-
-
+.inicio.{
+    background-color: #aca1a1;
+}
+.cabezera{
+    background-color: #ff00ff;
+}
+input{
+    background-image: url(https://lh3.googleusercontent.com/proxy/xM9uUHdi_EbzQ-tyxTzBIWK8MQGT_5r1-MQPWEFKWTa7CoEi4h8EzqNqlD0iDf5ev39gcAX454FptU-nqgcpq_wsX0uOTe2VXrgCW4_UoxsF5q7deVBmzhzgvk3cDg);
+background-repeat: no-repeat;
+background-position: right;
+background-size: 30px;
+}
 
 
 
