@@ -1,10 +1,12 @@
 body>div>a>img {
     display: none;}
-
+body{
+    
+}
 header{
 background-position: center;
 height: 100vh;
-background-image: url(../imagenes/imagen2.jpg);
+background-image: url(../imagenes/TECNOLOGIA2.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -19,6 +21,11 @@ height: 80px;
 background-color: #000;
 opacity: 0.8;
 line-height: 80px;
+position: fixed;
+top:0 ;
+left: 0;
+z-index: 100;
+
 }
 nav ul{
 float: right;
@@ -28,11 +35,11 @@ padding-right: 42px;
 }
 nav ul li{
 display: inline-block;
-padding:5px 20px;
+padding:2px 20px;
 }
 #header ul li a:hover{
-    background-color:#f39d1a;
-    border-radius:5px;
+   color: rgb(0, 174, 255);
+   text-decoration: none;
 }
 #header ul li a {
     color:white;
@@ -42,13 +49,22 @@ small{
 text-transform: uppercase;
 letter-spacing: 2px;
 font-weight: bold;
-color: orange; 
-font: oblique bold 120%cursive;
+color: white; 
+font: oblique bold 120%;
 padding: 0px 0px 0px 0px;
 
 }
 span{
     color: orange;
 }
-
+.articulo{
+color:;
+display: inline-block;
+padding:10px 20px;
+text-align: center;
+}
+.color{
+    background-color:rgb(38, 99, 139);
+    color: white;
+}
 
