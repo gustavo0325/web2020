@@ -45,11 +45,11 @@ padding:2px 20px;
    color: rgb(0, 174, 255);
    text-decoration: none; 
    display:inline-block;
+
 }
 #header ul li a  {
     color:white;
 }
-small{
   
 text-transform: uppercase;
 letter-spacing: 2px;
@@ -60,7 +60,7 @@ padding: 0px 0px 0px 0px;
 
 }
 span{
-    color:rgb(38, 99, 139) ;
+    color:white ;
 }
 /*aqui esta el estilo de los enlaces */
 .articulo{
