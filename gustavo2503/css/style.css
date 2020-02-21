@@ -19,7 +19,7 @@ background-size: cover;
 }
 /*esta es la barra de menu*/
 #menu{
-width: 100%;
+    width: 100%;
 height: 80px;
 background-color: #000;
 opacity: 0.8;
@@ -31,7 +31,7 @@ z-index: 100;
 
 }
 nav{
- width: 100%;
+    width: 100%;
 height: 80px;
 background-color:black;
 line-height: 80px;
@@ -59,7 +59,7 @@ padding:2px 20px;
 }
 #header ul li a  {
     color:white;
-    text-transform: uppercas
+    text-transform: uppercase;
 }
   
 span{
@@ -115,7 +115,7 @@ text-align:center ;
 }
 
 .carrusel{
-    background-color: rgb(38, 99, 139);;
+    background-color: rgb(38, 99, 139);
 
 }
 .parrafo p{
@@ -146,17 +146,30 @@ padding-top: 5%;
 .video{
     width: 100%;
     height: 100%;
-    padding-top:3%;
+    padding-top: 3%;
 }
-.titulo h2{
-    color: rgb(51, 169, 216);
+.titulo{
+    color: rgb(8, 117, 189);
 }
-.bag{
-background-image: url(../imagenes/fondo.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+.iniciodesesion{
+    padding-top:85px;
+}
 
+.flo{
+    background-color: rgb(119, 77, 119); 
 }
-.klk{
-  padding-top: 100px;  
+.final h4,p {
+color:white;
 }
+.final h4{
+   text-transform: uppercase;
+}
+.pintado{
+    background-color: rgb(75, 83, 87);
+}
+.crearcuenta{
+    padding-top:85px;
+  
+}
+.fly{
+    background-color:rgb(17, 126, 153);}
